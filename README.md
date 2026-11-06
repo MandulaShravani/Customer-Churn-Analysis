@@ -20,7 +20,7 @@ The objective is to help businesses understand why customers leave and identify 
 ## 📂 Dataset Information
 
 - **Dataset:** Telco Customer Churn
-- **Source:** IBM Telco Customer Churn Dataset
+- **Source:** Telco Customer Churn Dataset
 - **Total Records:** 7,043 customers
 - **Original Columns:** 21
 - **Domain:** Telecommunications
